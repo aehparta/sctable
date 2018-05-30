@@ -2,7 +2,7 @@
 Parse stats from old StarCraft end of game screenshots.
 
 Saving this here just for my own amusemed.
-This code was written to be compiled in Windows 98 with DJGPP somewhere in the years 1999 and 2000. To my surprise still compiles in linux with g++ perfectly and actually works.
+This code was written to be compiled in Windows 98 with DJGPP somewhere in the years 1999 and 2000 and I have not touched it since. To my surprise still compiles in linux with g++ perfectly and actually works.
 
 ## help
 ```sh
